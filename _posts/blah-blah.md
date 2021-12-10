@@ -1,0 +1,10 @@
+```
+---
+layout: post
+title: Short Bio
+---
+```
+
+You could ask me, "Victor, what's the best model to predict profit?", and I'd be like "blah blah blah", giving you the exact right answers
+
+![_config.yml]({{ site.baseurl }}/images/blah-blah.png)
